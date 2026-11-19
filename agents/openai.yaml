@@ -1,0 +1,4 @@
+interface:
+  display_name: "关山阅·品牌同名与信息冲突检查"
+  short_description: "比对品牌资料中的同名实体、运营主体、官网、产品与服务范围冲突。适用于多平台介绍不一致；不凭同名合并企业。"
+  default_prompt: "使用 $seoguan-brand-consistency，根据我提供的材料完成品牌同名与信息冲突检查，保留证据与未确认项。"
